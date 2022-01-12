@@ -1,5 +1,5 @@
 {
-  "name": "tofixed-round",
+  "name": "toFixed-round",
   "version": "1.0.0",
   "description": "修复toFixed四舍五入不准确问题",
   "main": "src/index.js",
